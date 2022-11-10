@@ -8,3 +8,10 @@
 
 # Programming Language Used:
 ### JavaScript
+
+# Library Used:
+### React,Express
+
+# Live Site
+https://wedding-photography-a3144.web.app/
+
